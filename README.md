@@ -14,7 +14,7 @@
 </p>
 <br/>
 
-[![Janith's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=icetjanith&theme=tokyonight)](https://git.io/praveenscience)
+### Janith's GitHub Activity Graph
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=icetjanith&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=icetjanith&theme=tokyonight) |
 | --- | --- |
