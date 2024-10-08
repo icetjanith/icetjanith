@@ -1,3 +1,6 @@
+<p align="center">
+    <img width="200" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Janith Sandaruwan</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
@@ -13,6 +16,7 @@
 <p align="left">
 </p>
 <br/>
+
 ### Janith's GitHub Activity Graph
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=icetjanith&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=icetjanith&theme=tokyonight) |
