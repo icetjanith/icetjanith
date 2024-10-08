@@ -7,24 +7,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=icetjanith&label=Profile%20views&color=0e75b6&style=flat" 
 alt="icetjanith" /> </p>
 
-<table>
-    <tr>
-        <td>
-            - 🔭 I’m currently working on **ICET**
+- 🔭 I’m currently working on **ICET**
 
-            - 🌱 I’m currently learning **Springboot , Angular ,React js , Node js , Express js**
+- 🌱 I’m currently learning **Springboot , Angular ,React js , Node js , Express js**
 
-            - 💬 Ask me about **Springboot , Angular ,React js**
-
-        </td>
-
-        <td>
-            <img width="200" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-        </td>
-        
-    </tr>
-</table>
-
+- 💬 Ask me about **Springboot , Angular ,React js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
