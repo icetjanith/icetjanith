@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=icetjanith&label=Profile%20views&color=0e75b6&style=flat" 
 alt="icetjanith" /> </p>
 
-- 🔭 I’m currently working on **ICET**
+- 🔭 I’m currently working on **Helixz Solutions(PVT) Ltd**
 
 - 🌱 I’m currently learning **Springboot , Angular ,React js , Node js , Express js**
 
